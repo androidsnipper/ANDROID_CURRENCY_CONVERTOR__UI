@@ -1,2 +1,5 @@
 # ANDROID_CURRENCY_CONVERTOR__UI
 UI DESIGNED CURRENCY CONVERTOR
+
+Here is the output:
+![](Screenshot_2020-06-08-14-01-14-28_a566ee43e3a99caf042fbdbeffabbb16 (1).png)
